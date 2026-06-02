@@ -1,6 +1,6 @@
 # my-first-repo
 
-# MYy first repository
+# My first repository
 A beginner Github project
 created during the workshop.
 
